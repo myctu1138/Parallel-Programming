@@ -1,0 +1,6 @@
+﻿  EquationsLinearSystem.cpp
+C:\Users\Мустафа Али\source\repos\Jacobi_openMP\Jacobi_openMP\EquationsLinearSystem.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Мустафа Али\source\repos\Jacobi_openMP\Jacobi_openMP\EquationsLinearSystem.cpp(33,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Jacobi_openMP.cpp
+  Generating Code...
+  Jacobi_openMP.vcxproj -> C:\Users\Мустафа Али\source\repos\Jacobi_openMP\Debug\Jacobi_openMP.exe
